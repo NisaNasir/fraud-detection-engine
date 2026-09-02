@@ -1,7 +1,6 @@
 # 🛡️ Real-Time Fintech Transaction Monitoring & Fraud Detection Engine
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-STREAMLIT-APP-URL.streamlit.app)
-*(Replace the URL above with your actual live Streamlit app link)*
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fraud-detection-engine-9drdadzda5txoecbdgrexw.streamlit.app)
 
 ## Executive Summary
 This project delivers an end-to-end Machine Learning Fraud Detection Engine built for digital banks, payment gateways, and e-wallets (e.g., Touch 'n Go Digital, GXBank, Boost Bank). The pipeline processes highly imbalanced transaction data (~284k records with a 0.17% fraud ratio), handles noise via data sanitization, benchmarks unsupervised anomaly detection (**Isolation Forest**) against cost-sensitive supervised models (**XGBoost**), and provides operational **precision-recall threshold tuning**.
